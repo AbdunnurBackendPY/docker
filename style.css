@@ -1,0 +1,30 @@
+@font-face{
+font-family:"Montserrat";
+src: url('font/Monsterrat-Regular.ttf');
+}
+
+
+
+h1{
+color: green;
+font-size: 40pt;
+text-align: center;
+font-family: Montserrat;
+}
+
+ul, ol, li{
+list-style-type:none;
+background-color: black;
+color: white;
+font-size: 20pt;
+text-align: center;
+font-family: Montserrat;
+}
+.basic{
+  display: inline;
+
+}
+.basic ul{
+display: none;
+}
+.  :hover

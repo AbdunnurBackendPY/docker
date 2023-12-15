@@ -1,0 +1,23 @@
+.smallphoto{
+display: inline-block;
+margin: 25px 50px 25px 50px;
+text-align: center;
+font-weight: bold;
+font-size: 20px;
+background-color: #ddd;
+border: 2px solid #aaa;
+}
+
+#mega{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 90vw;
+height: 100vh;
+background-color: rgba(240,240,240,0.5);
+background-image: url('../img/beograd.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: auto 100vh;
+display: none;
+}
